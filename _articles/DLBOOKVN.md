@@ -1,5 +1,5 @@
 ---
-title: "Học sâu"
+title: "Học Sâu"
 category: articles
 permalink: "/articles/DLBOOKVN/"
 venue: "Thế Giới Publishers"
