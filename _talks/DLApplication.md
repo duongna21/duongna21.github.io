@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Application"
+title: "Deep Learning Applications"
 collection: talks
 type: "Talk"
 permalink: /talks/DLApplication/ 
