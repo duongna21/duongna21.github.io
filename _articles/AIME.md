@@ -3,8 +3,8 @@ title: "AimeLaw at ALQAC 2021: Enriching Neural Network Models with Legal-Domain
 category: articles
 permalink: "/articles/AIME/"
 venue: "International Conference on Knowledge and Systems Engineering (KSE)"
-date: 16-11-2018
-link: https://arxiv.org/pdf/1811.03754
+date: 16-11-2021
+link: https://ieeexplore.ieee.org/document/9648636
 ---
 [comment]: <> (<a href="https://arxiv.org/abs/2002.07367">Arxiv</a>.)
 Huy Ngo, Tuan Nguyen, <b>Duong Nguyen</b>, Minh Pham

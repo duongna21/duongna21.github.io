@@ -3,7 +3,7 @@ title: "Neural sequence labeling for Vietnamese POS Tagging and NER"
 category: articles
 permalink: "/articles/NER/"
 venue: "International Conference on Research, Innovation and Vision for the Future (RIVF)"
-date: 16-11-2018
+date: 25-11-2018
 link: https://arxiv.org/pdf/1811.03754
 ---
 [comment]: <> (<a href="https://arxiv.org/abs/2002.07367">Arxiv</a>.)
