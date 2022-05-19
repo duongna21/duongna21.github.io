@@ -3,7 +3,7 @@ title: "Structured Dropout Variational Inference for Bayesian Neural Networks"
 category: articles
 permalink: "/articles/VSD/"
 venue: "Advances in Neural Information Processing Systems (NeurIPS)"
-date: 1-10-2021
+date: 10-12-2021
 link: https://arxiv.org/abs/2102.07927
 ---
 [comment]: <> (<a href="https://arxiv.org/abs/2002.07367">Arxiv</a>.)
