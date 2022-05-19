@@ -3,7 +3,7 @@ title: "New Turing Institute's A-Star Bootcamp (2021, 2022)"
 collection: teaching
 permalink: /teaching/Astar/ 
 institution: "New Turing Institute"
-date: 2022-01-06
+date: 2022-06-01
 excerpt: "<i>Lecturer</i><br/>
 As a community of AI and industry experts, our goal is to help companies find AI application and technology that is most relevant to their startups and provide a practical and rigorous AI training program that allows companies to build their internal AI capacity and expertise that go way beyond the duration of the program."
 ---
