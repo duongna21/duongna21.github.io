@@ -4,7 +4,7 @@ category: articles
 permalink: "/articles/VSD/"
 venue: "Advances in Neural Information Processing Systems (NeurIPS)"
 date: 10-12-2021
-link: https://arxiv.org/abs/2102.07927
+link: https://papers.nips.cc/paper/2021/hash/80a160ff31266be2f93012a2a3eca713-Abstract.html
 ---
 [comment]: <> (<a href="https://arxiv.org/abs/2002.07367">Arxiv</a>.)
 Son Nguyen\*, <b>Duong Nguyen</b>\*, Khai Nguyen, Khoat Than, Hung Bui\*, Nhat Ho\*
