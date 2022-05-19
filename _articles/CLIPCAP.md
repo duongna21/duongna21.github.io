@@ -3,7 +3,7 @@ title: "ClipCap with Translation for Image Captioning"
 category: articles
 permalink: "/articles/CLIPCAP/"
 venue: "Vietnamese Language and Speech Processing (VLSP)"
-date: 16-12-2021
+date: 1-12-2021
 link:
 ---
 [comment]: <>
