@@ -4,7 +4,7 @@ category: articles
 permalink: "/articles/DLBOOKVN/"
 venue: "Thế Giới Publishers"
 date: 10-01-2022
-link:
+link: dlbookvn.gitlab.io/
 ---
 [comment]: <>
 <b>Duong Nguyen</b>, Hung Le, Thanh Tran, Trang Le, Phat Vo, Xuan Tu,... Hung Ngo
