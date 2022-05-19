@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Duong A. Nguyen"
 title_separator          : "-"
 name                     : &name "Duong A. Nguyen"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
