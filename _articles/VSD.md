@@ -3,10 +3,10 @@ title: "Structured Dropout Variational Inference for Bayesian Neural Networks"
 category: articles
 permalink: "/articles/VSD/"
 venue: "Advances in Neural Information Processing Systems (NeurIPS)"
-date: 16-02-2021
+date: 1-10-2021
 link: https://arxiv.org/abs/2102.07927
 ---
 [comment]: <> (<a href="https://arxiv.org/abs/2002.07367">Arxiv</a>.)
 Son Nguyen\*, <b>Duong Nguyen</b>\*, Khai Nguyen, Khoat Than, Hung Bui\*, Nhat Ho\*
 
-Abstract: This paper presents a neural architecture for Vietnamese sequence labeling tasks including part-of-speech (POS) tagging and named entity recognition (NER). We applied the model that is a combination of bidirectional Long-Short Term Memory and Conditional Random Fields, which rely on two sources of information about words: character-based word representations learned from the supervised corpus and pre-trained word embeddings learned from other unannotated corpora. Experiments on benchmark datasets show that this work achieves state-of-the-art performances on both tasks 93.52% accuracy for POS tagging and 94.88% F1 for NER.
+Abstract: Approximate inference in Bayesian deep networks exhibits a dilemma of how to yield high fidelity posterior approximations while maintaining computational efficiency and scalability. We tackle this challenge by introducing a novel variational structured approximation inspired by the Bayesian interpretation of Dropout regularization. Concretely, we focus on the inflexibility of the factorized structure in Dropout posterior and then propose an improved method called Variational Structured Dropout (VSD). VSD employs an orthogonal transformation to learn a structured representation on the variational Gaussian noise with plausible complexity, and consequently induces statistical dependencies in the approximate posterior. Theoretically, VSD successfully addresses the pathologies of previous Variational Dropout methods and thus offers a standard Bayesian justification. We further show that VSD induces an adaptive regularization term with several desirable properties which contribute to better generalization. Finally, we conduct extensive experiments on standard benchmarks to demonstrate the effectiveness of VSD over state-of-the-art variational methods on predictive accuracy, uncertainty estimation, and out-of-distribution detection. 
