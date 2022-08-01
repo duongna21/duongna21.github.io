@@ -19,3 +19,5 @@ I’m currently an AI Specialist at VPS Securities JSC focusing on developing AI
 - **[Oct 2021]** Our paper "Structured Dropout Variational Inference for Bayesian Neural Networks" is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021/Schedule?type=Poster).
 
 - **[Jul 2022]** I gave "Accelerating Machine Learning research with JAX and TPU" talk at [Google I/O Extended Hanoi 2022](https://www.facebook.com/events/1517940821993351).
+
+- **[Jul 2022]** I released [bartflax](https://github.com/duongna21/bartflax) - a JAX/Flax training script for BART language model.
