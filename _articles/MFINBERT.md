@@ -9,4 +9,3 @@ link:
 [comment]: <> (<a href="https://arxiv.org/abs/2002.07367">Arxiv</a>.)
 <b>Duong Nguyen</b>\*, Nam Cao\*, Son Nguyen\*, Son Ta, Cuong Dinh
 
-Abstract: ahihi
