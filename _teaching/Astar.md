@@ -1,7 +1,7 @@
 ---
 title: "New Turing Institute's A-Star Bootcamp (2021)"
 collection: teaching
-permalink: /teaching/Astar/ 
+permalink: https://astar.newturing.ai/ 
 institution: "New Turing Institute"
 date: 2022-06-01
 excerpt: "<i>Lecturer</i><br/>
