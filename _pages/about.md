@@ -23,3 +23,4 @@ Hi World!
 
 - **[Oct 2021]** Our paper "Structured Dropout Variational Inference for Bayesian Neural Networks" is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021/Schedule?type=Poster).
 
+- **[Sep 2021]** We released [gpt-neo-1.3B-vietnamese-news](https://huggingface.co/VietAI/gpt-neo-1.3B-vietnamese-news) and [gpt-j-6B-vietnamese-news](https://huggingface.co/VietAI/gpt-j-6B-vietnamese-news), two largest language models for Vietnamese ever.
