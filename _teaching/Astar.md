@@ -1,5 +1,5 @@
 ---
-title: "New Turing Institute's A-Star Bootcamp (2021, 2022)"
+title: "New Turing Institute's A-Star Bootcamp (2021)"
 collection: teaching
 permalink: /teaching/Astar/ 
 institution: "New Turing Institute"
