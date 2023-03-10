@@ -4,6 +4,6 @@ collection: teaching
 permalink: /teaching/FoDL/ 
 institution: "VietAI"
 date: 2022-11-01
-excerpt: "<i>Lecturer</i>"
+excerpt: "<i>Teaching Lead</i>"
 ---
 
