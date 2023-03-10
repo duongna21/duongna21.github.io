@@ -13,7 +13,7 @@ redirect_from:
 Hi World! 
 ## News
 
-- **[Oct 2022]** I contributed JAX implementations of [Stable Diffusion finetuning, Textual Inversion, DreamBooth](https://twitter.com/psuraj28/status/1585626674447912963) and [LDM 4x super-resolution pipeline](https://twitter.com/psuraj28/status/1585626674447912963) to huggingface/diffusers library.
+- **[Oct 2022]** I contributed JAX implementations of [Stable Diffusion finetuning, Textual Inversion, DreamBooth](https://twitter.com/psuraj28/status/1585626674447912963) and [LDM 4x super-resolution pipeline](https://twitter.com/psuraj28/status/1593278762287656961) to huggingface/diffusers library.
 
 - **[Jul 2022]** I released [bartflax](https://github.com/duongna21/bartflax) - a JAX/Flax training script for BART language model - which is merged into huggingface/transformers as [run_bart_dlm_flax.py](https://github.com/huggingface/transformers/blob/main/examples/flax/language-modeling/run_bart_dlm_flax.py).
 
