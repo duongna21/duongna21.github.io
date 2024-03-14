@@ -13,6 +13,8 @@ redirect_from:
 Hi World! 
 ## News
 
+- **[Jan 2024]** I am recognized as the fourth Google Developer Expert in Machine Learning in Vietnam.
+
 - **[Sep 2023]** I will give the "Unlocking the power of JAX with Keras Core" talk at Keras Community Day Vietnam.
 
 - **[Jul 2023]** I will give the "Large-scale Personalized AI Art" talk at Google I/O Extended Hanoi 2023.
